@@ -1,0 +1,1 @@
+Um jogo de memória desenvolvido em JavaScript puro, inspirado nos heróis do Dota 2. Com uma interface baseada no jogo original, o projeto oferece possibilidades de adicionar modos de jogo e outras funcionalidades adicionais. Os jogadores podem desafiar-se a encontrar pares de cartas idênticas.
